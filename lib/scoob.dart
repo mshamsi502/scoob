@@ -1,6 +1,6 @@
 /// Support for doing something awesome.
 ///
-/// More dartdocs go here.
+/// More dartdocs go here...
 library scoob;
 
 export 'src/scoob_base.dart';
